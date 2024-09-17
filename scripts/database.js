@@ -1,4 +1,5 @@
-const database = [
+
+export const database = [
     {
         id: 1,
         name: 'Crouchy',
